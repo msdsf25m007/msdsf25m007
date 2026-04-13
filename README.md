@@ -40,5 +40,5 @@ Data Science\
  **LinkedIn**
  -(www.linkedin.com/in/laiba-zainab-609227323) \
  **E-mail**
- -(laibazainab101@gmail.com)
+ -(msdsf25m007@pucit.edu)
 
